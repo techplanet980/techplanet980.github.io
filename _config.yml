@@ -42,11 +42,11 @@ author: techplanet980
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >we offer quality service to clients. keeping your data safe and accessible to you and your selected team at the point of need. eliminating the need for self manage of physical resources.
+description:  "we offer quality service to clients. keeping your data safe and accessible to you and your selected team at the point of need. eliminating the need for self manage of physical resources. "
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+baseurl: " # the subpath of your site, e.g. /blog "
+url: " # the base hostname & protocol for your site, e.g. http://example.com "
+favicon: " # the favicon for your site "
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
