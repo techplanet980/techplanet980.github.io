@@ -43,8 +43,7 @@ author: techplanet980
 copyright: "Unpublished Work (cleft) 2017-{2025} {techplanet980}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
+  I specialize in making homes smart, having mordern technology serve you while you free yourself from unnecesaay stress. making your home a safe haven(for
   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -54,7 +53,7 @@ favicon: "" # the favicon for your site
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
-  date_format: "%b %d, %Y"
+date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
 # debug: false
